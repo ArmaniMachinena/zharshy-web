@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Zharshy//KZ events//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Жаршы — мероприятия Казахстана
+X-WR-TIMEZONE:Asia/Almaty
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:oil-gas-petrochemicals-exhibition-2026@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:Выставка «Нефтегазохимия»
+LOCATION:Атырау
+DESCRIPTION:Организатор: PetroCouncil
+END:VEVENT
+BEGIN:VEVENT
+UID:powerexpo-almaty-2026-2407de@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:Powerexpo Almaty 2026
+LOCATION:КЦДС «Атакент»\, Алматы
+DESCRIPTION:https://powerexpo.kz/ru/
+URL:https://powerexpo.kz/ru/
+END:VEVENT
+BEGIN:VEVENT
+UID:securex-kazakhstan-2026-d2df15@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:Securex Kazakhstan 2026
+LOCATION:КЦДС «Атакент»\, Алматы
+DESCRIPTION:https://securex.kz/
+URL:https://securex.kz/
+END:VEVENT
+BEGIN:VEVENT
+UID:united-medical-expo-2026-47e446@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+SUMMARY:United Medical Expo 2026
+LOCATION:МВЦ «EXPO»\, Астана
+DESCRIPTION:https://unitedmedicalexpo.com/
+URL:https://unitedmedicalexpo.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:amcham-gala-awards-2026-a83d7e@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:AmCham Gala Awards
+LOCATION:Алматы
+DESCRIPTION:Организатор: AmCham Kazakhstan\nhttps://amcham.kz/
+URL:https://amcham.kz/
+END:VEVENT
+BEGIN:VEVENT
+UID:astana-esg-forum-2026@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Astana ESG Forum 2026
+LOCATION:МФЦА\, Астана
+DESCRIPTION:«ESG-трансформация Казахстана: от о
+ бязательств к конкурентоспособности»: и
+ тоги года и рекомендации для рынка.\nОрга
+ низатор: IFC\, Qazaq Green\, ПРООН
+END:VEVENT
+BEGIN:VEVENT
+UID:petroprocurement-2026-e64f35@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:PetroProcurement 2026 — круглый стол по закуп
+ кам
+LOCATION:Атырау
+DESCRIPTION:Организатор: PetroCouncil
+END:VEVENT
+BEGIN:VEVENT
+UID:foodexpo-qazaqstan-2026@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261114
+SUMMARY:FoodExpo Qazaqstan 2026
+LOCATION:КЦДС «Атакент»\, ул. Тимирязева\, 42\, 
+ Алматы
+DESCRIPTION:Крупнейшая в Центральной Азии выс
+ тавка пищевой промышленности: напитки\, 
+ мясо\, ингредиенты\, пищевое оборудовани
+ е. Около 380 участников.\nОрганизатор: Iteca\nh
+ ttps://www.foodexpo.kz
+URL:https://www.foodexpo.kz
+END:VEVENT
+BEGIN:VEVENT
+UID:horex-2026@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261114
+SUMMARY:HOREX 2026 — всё для отелей\, ресторанов\,
+  супермаркетов
+LOCATION:КЦДС «Атакент»\, ул. Тимирязева\, 42\, 
+ Алматы
+DESCRIPTION:Центральноазиатская выставка обо
+ рудования и услуг для гостиниц\, рестора
+ нов и магазинов: кухни\, мебель\, униформа
+ \, клининг.\nОрганизатор: Iteca\nhttps://www.horexexpo.k
+ z
+URL:https://www.horexexpo.kz
+END:VEVENT
+BEGIN:VEVENT
+UID:qazpack-2026@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261114
+SUMMARY:QazPack 2026 — упаковка\, тара\, этикетка\, 
+ полиграфия
+LOCATION:КЦДС «Атакент»\, ул. Тимирязева\, 42\, 
+ Алматы
+DESCRIPTION:Международная выставка упаковочн
+ ых материалов\, тары\, этикетки и оборудо
+ вания для полиграфии.\nОрганизатор: Iteca\, I
+ CA Group\nhttps://iteca.events
+URL:https://iteca.events
+END:VEVENT
+BEGIN:VEVENT
+UID:nonfood-asia-2026@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+SUMMARY:Non-Food Asia Expo Kazakhstan 2026
+LOCATION:ВЦ «Атакент»\, Алматы
+DESCRIPTION:Непродовольственные товары для т
+ орговых сетей и маркетплейсов: посуда\, х
+ озтовары\, текстиль\, бытовая химия\, косм
+ етика.\nОрганизатор: Mayer Expo Asia (ГК Mayer)
+END:VEVENT
+BEGIN:VEVENT
+UID:concrete-show-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270130
+SUMMARY:Central Asia Concrete Show 2027
+LOCATION:МВЦ EXPO\, ул. Мәңгілік Ел\, 53/1\, Астана
+DESCRIPTION:Цемент\, бетон\, сухие строительны
+ е смеси\, оборудование и технологии.\nОрг
+ анизатор: Iteca\nhttps://centralasiaconcreteshow.com/en/
+URL:https://centralasiaconcreteshow.com/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:hunting-expo-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270329
+SUMMARY:Выставка охоты\, рыбалки и активного
+  отдыха 2027
+LOCATION:Алматы
+DESCRIPTION:Международная выставка снаряжени
+ я для охоты\, рыбалки и активного отдыха.\
+ nОрганизатор: уточняется
+END:VEVENT
+BEGIN:VEVENT
+UID:homedeco-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270331
+SUMMARY:HOMEDECO 2027 — домашний текстиль и декор
+LOCATION:КЦДС «Атакент»\, ул. Тимирязева\, 42\, 
+ Алматы
+DESCRIPTION:Международная выставка домашнего
+  текстиля и декора.\nОрганизатор: Türkel Fuarc
+ ılık A.Ş.
+END:VEVENT
+BEGIN:VEVENT
+UID:atyrau-oilgas-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270410
+SUMMARY:Atyrau Oil & Gas 2027 + Atyrau Build
+LOCATION:Атырауский выставочный центр\, пр. А
+ булхаир хана\, 79\, Атырау
+DESCRIPTION:Северо-Каспийская региональная н
+ ефтегазовая выставка\; параллельно — ст
+ роительная Atyrau Build.\nОрганизатор: Iteca\nhttps:/
+ /oil-gas.kz/
+URL:https://oil-gas.kz/
+END:VEVENT
+BEGIN:VEVENT
+UID:innoprom-central-asia-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270422
+SUMMARY:ИННОПРОМ. Центральная Азия 2027
+LOCATION:CAEx Uzbekistan\, Ташкент\, Узбекистан
+DESCRIPTION:Крупнейшая промышленная выставка
+  Центральной Азии. Даты по данным отрасл
+ евых каталогов — сверяйте с организатор
+ ом.\nОрганизатор: Formika Event\, Минпромторг Уз
+ бекистана\nhttps://www.innoprom.com/en/
+URL:https://www.innoprom.com/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:kitf-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+SUMMARY:KITF 2027 — Туризм и путешествия
+LOCATION:КЦДС «Атакент»\, ул. Тимирязева\, 42\, 
+ Алматы
+DESCRIPTION:Главная туристическая выставка К
+ азахстана: туроператоры\, отели\, авиаком
+ пании\, национальные павильоны.\nОрганиз
+ атор: Iteca\nhttps://kitf.kz/en/
+URL:https://kitf.kz/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:astana-build-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270501
+SUMMARY:Astana Build 2027
+LOCATION:МВЦ EXPO\, Астана
+DESCRIPTION:Строительство\, интерьеры\, отопле
+ ние и вентиляция.\nОрганизатор: Iteca\nhttp://www
+ .astanabuild.kz/ru/
+URL:http://www.astanabuild.kz/ru/
+END:VEVENT
+BEGIN:VEVENT
+UID:interfood-astana-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270501
+SUMMARY:InterFood Astana 2027
+LOCATION:Korme World Trade Center Astana\, Астана
+DESCRIPTION:Продукты питания\, напитки\, упако
+ вка и оборудование для пищевой промышле
+ нности.\nОрганизатор: Iteca
+END:VEVENT
+BEGIN:VEVENT
+UID:kiosh-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270501
+SUMMARY:KIOSH 2027 — охрана труда и безопасность
+LOCATION:МВЦ EXPO\, ул. Мәңгілік Ел\, 53/1\, Астана
+DESCRIPTION:Международная конференция и выст
+ авка по охране труда и промышленной безо
+ пасности.\nОрганизатор: Iteca\nhttps://www.kiosh.kz
+URL:https://www.kiosh.kz
+END:VEVENT
+BEGIN:VEVENT
+UID:world-hydrogen-summit-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+SUMMARY:World Hydrogen Summit & Exhibition 2027
+LOCATION:Rotterdam Ahoy\, Ahoyweg 10\, Роттердам\, Нидерла
+ нды
+DESCRIPTION:Крупнейшее в мире событие по водо
+ роду: саммит и выставка\, отдельные зоны 
+ по CCUS и хранению энергии.\nОрганизатор: Sus
+ tainable Energy Council\, RX Global\nhttps://www.world-hydrogen-summit.com
+URL:https://www.world-hydrogen-summit.com
+END:VEVENT
+BEGIN:VEVENT
+UID:kihe-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270522
+SUMMARY:KIHE 2027 — Казахстанская международна
+ я выставка здравоохранения
+LOCATION:КЦДС «Атакент»\, Алматы
+DESCRIPTION:Медицинское оборудование\, фармац
+ евтика\, лабораторная диагностика.\nОрга
+ низатор: Iteca
+END:VEVENT
+BEGIN:VEVENT
+UID:baku-energy-week-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+SUMMARY:Baku Energy Week 2027
+LOCATION:Baku Expo Centre\, Баку\, Азербайджан
+DESCRIPTION:Главная энергетическая неделя Ка
+ спия: выставки Caspian Oil & Gas\, Caspian Power и Бакин
+ ский энергетический форум.\nОрганизатор:
+  Iteca Caspian\nhttps://bakuenergyweek.com
+URL:https://bakuenergyweek.com
+END:VEVENT
+BEGIN:VEVENT
+UID:amm-2027@zharshy
+DTSTAMP:20261111T171555Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270612
+SUMMARY:Astana Mining & Metallurgy 2027 (AMM)
+LOCATION:Hilton Astana\, ул. Г. Алиева\, 14\, Астана
+DESCRIPTION:Главный горно-металлургический к
+ онгресс страны\; в 2026 году собрал более 1\,
+ 5 тыс. делегатов из 16 стран.\nОрганизатор: 
+ Iteca
+END:VEVENT
+END:VCALENDAR
