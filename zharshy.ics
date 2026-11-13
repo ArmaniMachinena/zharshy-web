@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:oil-gas-petrochemicals-exhibition-2026@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261101
 SUMMARY:Выставка «Нефтегазохимия»
@@ -18,7 +18,7 @@ DESCRIPTION:Организатор: PetroCouncil
 END:VEVENT
 BEGIN:VEVENT
 UID:powerexpo-almaty-2026-2407de@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261024
 SUMMARY:Powerexpo Almaty 2026
@@ -28,7 +28,7 @@ URL:https://powerexpo.kz/ru/
 END:VEVENT
 BEGIN:VEVENT
 UID:securex-kazakhstan-2026-d2df15@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261024
 SUMMARY:Securex Kazakhstan 2026
@@ -38,7 +38,7 @@ URL:https://securex.kz/
 END:VEVENT
 BEGIN:VEVENT
 UID:united-medical-expo-2026-47e446@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261030
 SUMMARY:United Medical Expo 2026
@@ -47,8 +47,27 @@ DESCRIPTION:https://unitedmedicalexpo.com/
 URL:https://unitedmedicalexpo.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:energy-trends-gas-petrochemicals-2026-26220e@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Газовая конференция Energy Trends: Gas & Petroch
+ emicals
+LOCATION:The St. Regis Astana\, Астана
+DESCRIPTION:Конференция о новых капитальных п
+ роектах в газовой отрасли: добыче\, перер
+ аботке\, транспортировке и хранении газа
+ \, а также о газохимии и возможностях для 
+ поставщиков\, подрядчиков и инвесторов. 
+ Включает пленарное заседание\, тематиче
+ ские сессии и нетворкинг.\nОрганизатор: О
+ бщественный фонд «ENERGY MONITOR»\nhttps://energytrends.k
+ z
+URL:https://energytrends.kz
+END:VEVENT
+BEGIN:VEVENT
 UID:amcham-gala-awards-2026-a83d7e@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:AmCham Gala Awards
@@ -58,7 +77,7 @@ URL:https://amcham.kz/
 END:VEVENT
 BEGIN:VEVENT
 UID:astana-esg-forum-2026@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Astana ESG Forum 2026
@@ -70,7 +89,7 @@ DESCRIPTION:«ESG-трансформация Казахстана: от о
 END:VEVENT
 BEGIN:VEVENT
 UID:petroprocurement-2026-e64f35@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:PetroProcurement 2026 — круглый стол по закуп
@@ -80,7 +99,7 @@ DESCRIPTION:Организатор: PetroCouncil
 END:VEVENT
 BEGIN:VEVENT
 UID:cop31-antalya-2026@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261121
 SUMMARY:COP31 — Конференция ООН по изменению к
@@ -93,8 +112,21 @@ DESCRIPTION:Климатический саммит ООН\; встреч
 URL:https://unfccc.int/cop31
 END:VEVENT
 BEGIN:VEVENT
+UID:cleanexpo-qazaqstan-2026-ca5fd0@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261114
+SUMMARY:CleanExpo Qazaqstan 2026
+LOCATION:КЦДС "Атакент"\, Алматы
+DESCRIPTION:21-я Казахстанская международная в
+ ыставка чистящих и моющих средств\, обор
+ удования для химчисток и прачечных\, а та
+ кже уборочной техники. Проходит в Алматы
+  с 11 по 13 ноября 2026 года.
+END:VEVENT
+BEGIN:VEVENT
 UID:foodexpo-qazaqstan-2026@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261114
 SUMMARY:FoodExpo Qazaqstan 2026
@@ -109,7 +141,7 @@ URL:https://www.foodexpo.kz
 END:VEVENT
 BEGIN:VEVENT
 UID:horex-2026@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261114
 SUMMARY:HOREX 2026 — всё для отелей\, ресторанов\,
@@ -125,7 +157,7 @@ URL:https://www.horexexpo.kz
 END:VEVENT
 BEGIN:VEVENT
 UID:qazpack-2026@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261114
 SUMMARY:QazPack 2026 — упаковка\, тара\, этикетка\, 
@@ -140,7 +172,7 @@ URL:https://iteca.events
 END:VEVENT
 BEGIN:VEVENT
 UID:congress-financiers-2026@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:XIV Конгресс финансистов Казахстана
@@ -155,8 +187,23 @@ DESCRIPTION:Будущее финансового рынка\, цифро
 URL:https://www.youtube.com/live/RHM6RI6LK_4
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-2026-04021c@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Заседание Комиссии по экономически
+ м вопросам при Экономическом совете СНГ
+LOCATION:
+DESCRIPTION:Очередное заседание комиссии\, ко
+ торая готовит экономические вопросы для
+  Экономического совета СНГ. Анонс указан
+  на портале Исполкома СНГ.\nОрганизатор: 
+ Исполнительный комитет СНГ\nhttps://e-cis.info
+URL:https://e-cis.info
+END:VEVENT
+BEGIN:VEVENT
 UID:nonfood-asia-2026@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:Non-Food Asia Expo Kazakhstan 2026
@@ -167,8 +214,24 @@ DESCRIPTION:Непродовольственные товары для т
  етика.\nОрганизатор: Mayer Expo Asia (ГК Mayer)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-2026-4799e1@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Заседание Экономического совета СН
+ Г
+LOCATION:
+DESCRIPTION:Заседание Экономического совета 
+ СНГ\, на котором обсуждаются вопросы эко
+ номического сотрудничества государств 
+ Содружества. Анонс размещён на портале И
+ сполкома СНГ.\nОрганизатор: Исполнительн
+ ый комитет СНГ\nhttps://e-cis.info
+URL:https://e-cis.info
+END:VEVENT
+BEGIN:VEVENT
 UID:independence-day-2026@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261218
 SUMMARY:День Независимости Республики Каза
@@ -183,7 +246,7 @@ URL:https://www.akorda.kz
 END:VEVENT
 BEGIN:VEVENT
 UID:wef-davos-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270123
 SUMMARY:Всемирный экономический форум в Дав
@@ -197,7 +260,7 @@ URL:https://www.weforum.org
 END:VEVENT
 BEGIN:VEVENT
 UID:concrete-show-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270130
 SUMMARY:Central Asia Concrete Show 2027
@@ -209,7 +272,7 @@ URL:https://centralasiaconcreteshow.com/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:ceraweek-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270313
 SUMMARY:CERAWeek 2027 by S&P Global
@@ -223,7 +286,7 @@ URL:https://www.ceraweek.com/en
 END:VEVENT
 BEGIN:VEVENT
 UID:gulfood-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:Gulfood 2027
@@ -237,7 +300,7 @@ URL:https://www.gulfood.com
 END:VEVENT
 BEGIN:VEVENT
 UID:nauryz-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270324
 SUMMARY:Наурыз мейрамы 2027
@@ -249,7 +312,7 @@ DESCRIPTION:Государственный праздник весенне
 END:VEVENT
 BEGIN:VEVENT
 UID:hunting-expo-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270329
 SUMMARY:Выставка охоты\, рыбалки и активного
@@ -261,7 +324,7 @@ DESCRIPTION:Международная выставка снаряжени
 END:VEVENT
 BEGIN:VEVENT
 UID:homedeco-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270331
 SUMMARY:HOMEDECO 2027 — домашний текстиль и декор
@@ -272,8 +335,64 @@ DESCRIPTION:Международная выставка домашнего
  ılık A.Ş.
 END:VEVENT
 BEGIN:VEVENT
+UID:kazakhstan-machinery-fair-2027-63f5f5@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270403
+SUMMARY:Kazakhstan Machinery Fair 2027
+LOCATION:МВЦ «EXPO»\, пр-т Мангилик Ел 53/1\, Астан
+ а
+DESCRIPTION:Крупнейшая в Центральной Азии меж
+ дународная выставка машиностроения\, ме
+ таллообработки и сварочных технологий. 
+ Производители и дистрибьюторы оборудов
+ ания встречаются здесь с руководителями
+  заводов\, инженерами и закупщиками из Ка
+ захстана и соседних стран.\nОрганизатор: 
+ Выставочная компания «Астана-Экспо КС»\n
+ https://www.kmfexpo.kz/ru
+URL:https://www.kmfexpo.kz/ru
+END:VEVENT
+BEGIN:VEVENT
+UID:su-arnasy-water-expo-2027-1aaf30@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270403
+SUMMARY:SU ARNASY - Water Expo 2027
+LOCATION:МВЦ «EXPO»\, Астана
+DESCRIPTION:XVI Международная выставка техноло
+ гий водоснабжения\, водоотведения\, водо
+ очистки и цифровизации водной инфрастру
+ ктуры в Астане. В деловой программе прой
+ дёт отраслевой форум «Водоснабжение и в
+ одоотведение 2030» о модернизации\, цифров
+ изации и тарифном регулировании.\nОргани
+ затор: Выставочная компания «Астана-Экс
+ по КС»\nhttps://waterexpo.kz/
+URL:https://waterexpo.kz/
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-2027-7b23b6@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270403
+SUMMARY:Международная выставка промышленно
+ й энергетики и инженерной инфраструктур
+ ы предприятий
+LOCATION:МВЦ «EXPO»\, пр-т Мангилик Ел 53/1\, Астан
+ а
+DESCRIPTION:Международная выставка оборудова
+ ния и решений для промышленной энергети
+ ки и инженерной инфраструктуры предприя
+ тий. Проходит в те же даты\, что и Kazakhstan Mach
+ inery Fair 2027\, на той же площадке.\nОрганизато
+ р: Выставочная компания «Астана-Экспо КС
+ »\nhttps://www.kmfexpo.kz/ru
+URL:https://www.kmfexpo.kz/ru
+END:VEVENT
+BEGIN:VEVENT
 UID:hannover-messe-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
 SUMMARY:HANNOVER MESSE 2027
@@ -285,7 +404,7 @@ URL:https://www.hannovermesse.de
 END:VEVENT
 BEGIN:VEVENT
 UID:atyrau-oilgas-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270410
 SUMMARY:Atyrau Oil & Gas 2027 + Atyrau Build
@@ -299,7 +418,7 @@ URL:https://oil-gas.kz/
 END:VEVENT
 BEGIN:VEVENT
 UID:innoprom-central-asia-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270422
 SUMMARY:ИННОПРОМ. Центральная Азия 2027
@@ -313,7 +432,7 @@ URL:https://www.innoprom.com/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:kitf-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270424
 SUMMARY:KITF 2027 — Туризм и путешествия
@@ -327,7 +446,7 @@ URL:https://kitf.kz/en/
 END:VEVENT
 BEGIN:VEVENT
 UID:astana-build-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270501
 SUMMARY:Astana Build 2027
@@ -339,7 +458,7 @@ URL:http://www.astanabuild.kz/ru/
 END:VEVENT
 BEGIN:VEVENT
 UID:interfood-astana-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270501
 SUMMARY:InterFood Astana 2027
@@ -350,7 +469,7 @@ DESCRIPTION:Продукты питания\, напитки\, упако
 END:VEVENT
 BEGIN:VEVENT
 UID:kiosh-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270501
 SUMMARY:KIOSH 2027 — охрана труда и безопасность
@@ -361,8 +480,27 @@ DESCRIPTION:Международная конференция и выст
 URL:https://www.kiosh.kz
 END:VEVENT
 BEGIN:VEVENT
+UID:business-technology-expo-2027-b4e44e@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+SUMMARY:Международная форум-выставка автом
+ атизации и цифровизации бизнеса Business Techn
+ ology Expo
+LOCATION:МВЦ EXPO\, Астана
+DESCRIPTION:Международная B2B-выставка\, где ко
+ мпании демонстрируют цифровые и техноло
+ гические решения для автоматизации\, упр
+ авления и масштабирования бизнеса. Пара
+ ллельно проходят конференции по ИИ\, Data Sc
+ ience\, цифровой трансформации\, маркетингу
+  и HR.\nОрганизатор: Выставочная компания 
+ «Астана-Экспо КС»\nhttps://btexpo.kz/ru
+URL:https://btexpo.kz/ru
+END:VEVENT
+BEGIN:VEVENT
 UID:world-hydrogen-summit-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270521
 SUMMARY:World Hydrogen Summit & Exhibition 2027
@@ -376,7 +514,7 @@ URL:https://www.world-hydrogen-summit.com
 END:VEVENT
 BEGIN:VEVENT
 UID:kihe-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270522
 SUMMARY:KIHE 2027 — Казахстанская международна
@@ -388,7 +526,7 @@ DESCRIPTION:Медицинское оборудование\, фармац
 END:VEVENT
 BEGIN:VEVENT
 UID:baku-energy-week-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270605
 SUMMARY:Baku Energy Week 2027
@@ -401,7 +539,7 @@ URL:https://bakuenergyweek.com
 END:VEVENT
 BEGIN:VEVENT
 UID:amm-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270612
 SUMMARY:Astana Mining & Metallurgy 2027 (AMM)
@@ -409,11 +547,28 @@ LOCATION:Hilton Astana\, ул. Г. Алиева\, 14\, Астана
 DESCRIPTION:Главный горно-металлургический к
  онгресс страны\; в 2026 году собрал более 1\,
  5 тыс. делегатов из 16 стран.\nОрганизатор: 
- Iteca
+ Iteca\nhttps://www.amm.kz
+URL:https://www.amm.kz
+END:VEVENT
+BEGIN:VEVENT
+UID:electronica-expo-kazakhstan-2027-e3be05@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270619
+SUMMARY:Electronica Expo Kazakhstan
+LOCATION:МВЦ EXPO\, Астана
+DESCRIPTION:Крупнейшая в Центральной Азии по 
+ числу участников и посетителей междунар
+ одная выставка электроники: от компонен
+ тов до готовых электронных систем. Однов
+ ременно проходят выставки Consumer Electronics Expo
+  Kazakhstan и Central Asia Tools & Hardware Show.\nhttps://electronica-ex
+ po.com/
+URL:https://electronica-expo.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:spief-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270620
 SUMMARY:ПМЭФ-2027 — Петербургский международ
@@ -427,7 +582,7 @@ DESCRIPTION:Юбилейный 30-й форум\; в 2026 году — 24\
 END:VEVENT
 BEGIN:VEVENT
 UID:tpp-central-asia-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270625
 SUMMARY:Форум «ТЭС Центральной Азии» 2027
@@ -438,7 +593,7 @@ DESCRIPTION:5-й юбилейный форум по тепловым эл
 END:VEVENT
 BEGIN:VEVENT
 UID:eef-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270904
 SUMMARY:Восточный экономический форум 2027
@@ -448,8 +603,60 @@ DESCRIPTION:XII ВЭФ: сотрудничество с Азиатско-
  шруты.\nОрганизатор: Фонд «Росконгресс»
 END:VEVENT
 BEGIN:VEVENT
+UID:31-kioge-2027-ddadb7@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270904
+SUMMARY:31-я Международная выставка и конфер
+ енция «Нефть и Газ» (KIOGE)
+LOCATION:МВЦ «EXPO»\, Астана
+DESCRIPTION:Крупнейшая в Каспийском регионе в
+ ыставка и конференция для специалистов 
+ нефтегазового сектора\, проводится раз в
+  два года. Мероприятие объединяет участн
+ иков отрасли\, демонстрирует оборудован
+ ие и технологии и проходит в Астане.\nОрг
+ анизатор: ITECA.EVENTS\nhttps://kioge.kz/
+URL:https://kioge.kz/
+END:VEVENT
+BEGIN:VEVENT
+UID:30-translogistica-2027-c90b10@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271015
+SUMMARY:30-я Казахстанская международная выс
+ тавка транспорта и логистики TransLogistica
+LOCATION:ВЦ «Атакент»\, ул. Тимирязева\, 42\, Ал
+ маты
+DESCRIPTION:Международная выставка транспорт
+ а и логистики в Алматы\, где компании смо
+ гут представить свои решения и найти пар
+ тнёров. Проводится на площадке «Атакент
+ » с 12 по 14 октября 2027 года.\nhttps://translogistica.kz/
+ en/
+URL:https://translogistica.kz/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:15-2027-bffdb4@zharshy
+DTSTAMP:20261113T080838Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271023
+SUMMARY:15-я Казахстанская международная выс
+ тавка «Безопасность\, противопожарная з
+ ащита\, информационные технологии\, связ
+ ь и дроны»
+LOCATION:КЦДС «Атакент»\, ул. Тимирязева 42\, А
+ лматы
+DESCRIPTION:Международная выставка по безопа
+ сности\, противопожарной защите\, IT\, связ
+ и и дронам. Пройдет 20–22 октября 2027 года в
+  Алматы на площадке КЦДС «Атакент».\nОрга
+ низатор: ITECA.EVENTS\nhttps://securex.kz/
+URL:https://securex.kz/
+END:VEVENT
+BEGIN:VEVENT
 UID:dubai-airshow-2027@zharshy
-DTSTAMP:20261113T074108Z
+DTSTAMP:20261113T080838Z
 DTSTART;VALUE=DATE:20271115
 DTEND;VALUE=DATE:20271120
 SUMMARY:Dubai Airshow 2027

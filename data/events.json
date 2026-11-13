@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T10:30:00+05:00",
+ "updated_at": "2026-11-13T13:05+05:00",
  "events": [
   {
    "title": "Central Asia Coatings Show 2026",
@@ -1906,6 +1906,195 @@
    "country": "Казахстан"
   },
   {
+   "title": "Газовая конференция Energy Trends: Gas & Petrochemicals",
+   "type": "conference",
+   "level": "industry",
+   "edition": null,
+   "industries": [
+    "Нефть и газ",
+    "Энергетика"
+   ],
+   "city": "Астана",
+   "venue": "The St. Regis Astana",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "organizer": "Общественный фонд «ENERGY MONITOR»",
+   "phone": "+7 702 9 999 248",
+   "email": "zhumagulov@gmail.com",
+   "site": "https://energytrends.kz",
+   "description": "Конференция о новых капитальных проектах в газовой отрасли: добыче, переработке, транспортировке и хранении газа, а также о газохимии и возможностях для поставщиков, подрядчиков и инвесторов. Включает пленарное заседание, тематические сессии и нетворкинг.",
+   "source_url": "https://energytrends.kz",
+   "source_name": "Energy Trends",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [
+    {
+     "name": "Е. Акбаров",
+     "role": "Вице-министр энергетики РК",
+     "company": "Министерство энергетики РК"
+    },
+    {
+     "name": "А. Жамауов",
+     "role": "Председатель Правления",
+     "company": "НК «QazaqGaz»"
+    },
+    {
+     "name": "А. Магауов",
+     "role": "Заместитель Председателя Правления",
+     "company": "НК «КазМунайГаз»"
+    },
+    {
+     "name": "С. Брекешев",
+     "role": "Председатель ассоциации",
+     "company": "KAZENERGY"
+    },
+    {
+     "name": "Я. Миньюй",
+     "role": "Генеральный директор",
+     "company": "CNPC Kazakhstan"
+    },
+    {
+     "name": "С. Агибалов",
+     "role": "Вице-президент по консалтингу",
+     "company": "Argus"
+    },
+    {
+     "name": "С. Боранбеков",
+     "role": "Президент Ассоциации",
+     "company": "PetroMining"
+    },
+    {
+     "name": "Н. Жумагулов",
+     "role": "Директор, модератор пленарного заседания",
+     "company": "ОФ Energy Monitor"
+    },
+    {
+     "name": "А. Даулетов",
+     "role": "Заместитель Председателя Правления по разведке и добыче",
+     "company": "НК «QazaqGaz»"
+    },
+    {
+     "name": "О. Бегимбетов",
+     "role": "Главный геолог",
+     "company": "НК «КазМунайГаз»"
+    },
+    {
+     "name": "И. Верстрален",
+     "role": "Генеральный менеджер по разработке и недропользованию",
+     "company": "Shell Kazakhstan"
+    },
+    {
+     "name": "Ануар Битанов",
+     "role": "Эксперт в области недропользования",
+     "company": ""
+    },
+    {
+     "name": "А. Байдусенов",
+     "role": "Старший партнер, модератор",
+     "company": "Energy Insights & Analytics"
+    },
+    {
+     "name": "А. Давлетов",
+     "role": "Заместитель генерального директора",
+     "company": "ИНТЕРГАЗ ЦЕНТРАЛЬНАЯ АЗИЯ"
+    },
+    {
+     "name": "А. Шакеров",
+     "role": "Генеральный директор",
+     "company": "QazaqGaz Onimderi"
+    },
+    {
+     "name": "Ч. Черниязданов",
+     "role": "Директор",
+     "company": "АО «КИНГ»"
+    },
+    {
+     "name": "C. Горский",
+     "role": "Член совета директоров",
+     "company": "Texol"
+    },
+    {
+     "name": "Т. Арыстанбаев",
+     "role": "Председатель правления",
+     "company": "ОЮЛ «Газомоторная ассоциация Казахстана»"
+    },
+    {
+     "name": "Е. Ергали",
+     "role": "Управляющий директор, модератор",
+     "company": "НПП «АТАМЕКЕН»"
+    },
+    {
+     "name": "Т. Уркумбаев",
+     "role": "Директор Департамента нефтегазохимии и технического регулирования",
+     "company": "МЭ РК"
+    },
+    {
+     "name": "Б. Тергеусизов",
+     "role": "Заместитель Председателя Правления по капитальному строительству и новым проектам",
+     "company": "НК «QazaqGaz»"
+    },
+    {
+     "name": "Х. Каримов",
+     "role": "Заместитель генерального директора",
+     "company": "Silleno"
+    },
+    {
+     "name": "А. Маулешев",
+     "role": "Генеральный директор",
+     "company": "KazAzot Prime"
+    },
+    {
+     "name": "В. Гацко",
+     "role": "Главный инженер – директор операционного блока",
+     "company": "ТОО «Бутадиен»"
+    },
+    {
+     "name": "Д. Дарибаева",
+     "role": "Ведущий аналитик",
+     "company": "S&P Global Commodity Insights"
+    },
+    {
+     "name": "А. Сатимов",
+     "role": "Генеральный директор, модератор",
+     "company": "WhiteStone"
+    },
+    {
+     "name": "Ж. Мирманов",
+     "role": "Заместитель Председателя Правления по экономике и финансам",
+     "company": "НК «QazaqGaz»"
+    },
+    {
+     "name": "А. Конакбаев",
+     "role": "Директор Департамента газовой промышленности",
+     "company": "Министерство энергетики РК"
+    },
+    {
+     "name": "Д. Дарбузов",
+     "role": "Управляющий директор по маркетингу и цифровизации",
+     "company": "QazaqGaz Aimaq"
+    },
+    {
+     "name": "Т. Темиржанов",
+     "role": "Партнер, модератор",
+     "company": "Boston Consulting Group"
+    }
+   ],
+   "i18n": {
+    "kk": {
+     "title": "Energy Trends: Газ және мұнайхимия конференциясы",
+     "description": "Газ өнеркәсібіндегі жаңа капиталдық жобаларға арналған конференция: газды өндіру, өңдеу, тасымалдау және сақтау, сондай-ақ газхимия мәселелері және жеткізушілер, мердігерлер мен инвесторлар үшін мүмкіндіктер қаралады. Пленарлық отырыс, тақырыптық сессиялар және нетворкинг кіреді.",
+     "venue": "The St. Regis Astana"
+    },
+    "en": {
+     "title": "Energy Trends: Gas & Petrochemicals Conference",
+     "description": "A conference on new capital projects in the gas industry, covering gas production, processing, transportation and storage, as well as gas chemistry and opportunities for suppliers, contractors and investors. The programme includes a plenary session, thematic sessions and networking.",
+     "venue": "The St. Regis Astana"
+    }
+   },
+   "id": "energy-trends-gas-petrochemicals-2026-26220e",
+   "found_at": "2026-11-13T13:05+05:00"
+  },
+  {
    "title": "AmCham Gala Awards",
    "type": "networking",
    "level": "international",
@@ -2054,7 +2243,61 @@
      "description": "UN climate summit; heads of state and government segment on 11–12 November.",
      "venue": "Antalya EXPO Center"
     }
-   }
+   },
+   "also_in": [
+    "https://primeminister.kz/ru/news"
+   ],
+   "speakers": [
+    {
+     "name": "Олжас Бектенов",
+     "role": "Премьер-министр",
+     "company": "Республика Казахстан"
+    },
+    {
+     "name": "Василе Тофан",
+     "role": "Премьер-министр",
+     "company": "Республика Молдова"
+    }
+   ],
+   "found_at": "2026-11-13T13:05+05:00"
+  },
+  {
+   "title": "CleanExpo Qazaqstan 2026",
+   "type": "exhibition",
+   "level": "international",
+   "edition": 21,
+   "industries": [
+    "HoReCa",
+    "Ритейл и FMCG"
+   ],
+   "city": "Алматы",
+   "venue": "КЦДС \"Атакент\"",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "organizer": "",
+   "phone": "",
+   "email": "",
+   "site": "",
+   "description": "21-я Казахстанская международная выставка чистящих и моющих средств, оборудования для химчисток и прачечных, а также уборочной техники. Проходит в Алматы с 11 по 13 ноября 2026 года.",
+   "source_url": "https://www.advantour.com/rus/kazakhstan/almaty/exhibitions.htm",
+   "source_name": "Advantour — выставки Алматы",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "CleanExpo Qazaqstan 2026",
+     "description": "Тазалау және жуу құралдарына, химтазалау мен кір жуу орындарына арналған жабдықтарға және жинастыру техникасына арналған 21-ші Қазақстандық халықаралық көрме. Алматыда 2026 жылғы 11-13 қарашада өтеді.",
+     "venue": "\"Атакент\" КЦДС"
+    },
+    "en": {
+     "title": "CleanExpo Qazaqstan 2026",
+     "description": "The 21st Kazakhstan International Exhibition of cleaning and detergent products, equipment for dry cleaners and laundries, and cleaning machinery. Held in Almaty from 11 to 13 November 2026.",
+     "venue": "Atakent ExpoCentre (KTsDS Atakent)"
+    }
+   },
+   "id": "cleanexpo-qazaqstan-2026-ca5fd0",
+   "found_at": "2026-11-13T13:05+05:00"
   },
   {
    "id": "foodexpo-qazaqstan-2026",
@@ -2088,7 +2331,10 @@
      "venue": "Atakent Expo, 42 Timiryazev St."
     }
    },
-   "country": "Казахстан"
+   "country": "Казахстан",
+   "also_in": [
+    "https://iteca.events/ru/news"
+   ]
   },
   {
    "id": "horex-2026",
@@ -2123,7 +2369,11 @@
      "venue": "Atakent Expo, 42 Timiryazev St."
     }
    },
-   "country": "Казахстан"
+   "country": "Казахстан",
+   "also_in": [
+    "https://iteca.events/ru/news",
+    "https://www.advantour.com/rus/kazakhstan/almaty/exhibitions.htm"
+   ]
   },
   {
    "id": "qazpack-2026",
@@ -2158,7 +2408,10 @@
      "venue": "Atakent Expo, 42 Timiryazev St."
     }
    },
-   "country": "Казахстан"
+   "country": "Казахстан",
+   "also_in": [
+    "https://iteca.events/ru/news"
+   ]
   },
   {
    "id": "congress-financiers-2026",
@@ -2191,7 +2444,59 @@
      "title": "14th Congress of Financiers of Kazakhstan",
      "description": "The future of the financial market, digital assets, crypto and financial innovation. Held ahead of National Currency Day (15 November). Live stream on Atameken Business YouTube."
     }
-   }
+   },
+   "also_in": [
+    "https://t.me/s/atamekenbusiness",
+    "https://t.me/s/atamekenbusiness_qaz"
+   ],
+   "speakers": [
+    {
+     "name": "Тимур Сулейменов",
+     "role": "Председатель",
+     "company": "Национальный Банк Республики Казахстан"
+    },
+    {
+     "name": "Мадина Абилкасымова",
+     "role": "Председатель",
+     "company": "Агентство по регулированию и развитию финансового рынка"
+    }
+   ]
+  },
+  {
+   "title": "Заседание Комиссии по экономическим вопросам при Экономическом совете СНГ",
+   "type": "official",
+   "level": "international",
+   "edition": null,
+   "industries": [
+    "Финансы",
+    "Госуправление"
+   ],
+   "city": "уточняется",
+   "venue": "",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "organizer": "Исполнительный комитет СНГ",
+   "phone": "(+7495) 190-54-00",
+   "email": "info@e-cis.info",
+   "site": "https://e-cis.info",
+   "description": "Очередное заседание комиссии, которая готовит экономические вопросы для Экономического совета СНГ. Анонс указан на портале Исполкома СНГ.",
+   "source_url": "https://e-cis.info/news/",
+   "source_name": "СНГ — исполком",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "ТМД Экономикалық кеңесі жанындағы экономикалық мәселелер жөніндегі комиссияның отырысы",
+     "description": "ТМД Экономикалық кеңесіне экономикалық мәселелерді дайындайтын комиссияның кезекті отырысы. Анонс ТМД Атқарушы комитетінің порталында жарияланған."
+    },
+    "en": {
+     "title": "Meeting of the Commission on Economic Issues under the CIS Economic Council",
+     "description": "Regular meeting of the commission that prepares economic issues for the CIS Economic Council. The announcement is published on the CIS Executive Committee portal."
+    }
+   },
+   "id": "ev-2026-04021c",
+   "found_at": "2026-11-13T13:05+05:00"
   },
   {
    "id": "nonfood-asia-2026",
@@ -2227,6 +2532,42 @@
     }
    },
    "country": "Казахстан"
+  },
+  {
+   "title": "Заседание Экономического совета СНГ",
+   "type": "official",
+   "level": "international",
+   "edition": null,
+   "industries": [
+    "Финансы",
+    "Госуправление"
+   ],
+   "city": "уточняется",
+   "venue": "",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "organizer": "Исполнительный комитет СНГ",
+   "phone": "(+7495) 190-54-00",
+   "email": "info@e-cis.info",
+   "site": "https://e-cis.info",
+   "description": "Заседание Экономического совета СНГ, на котором обсуждаются вопросы экономического сотрудничества государств Содружества. Анонс размещён на портале Исполкома СНГ.",
+   "source_url": "https://e-cis.info/news/",
+   "source_name": "СНГ — исполком",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "ТМД Экономикалық кеңесінің отырысы",
+     "description": "ТМД мемлекеттерінің экономикалық ынтымақтастығы мәселелері талқыланатын Экономикалық кеңестің отырысы. Анонс ТМД Атқарушы комитетінің порталында жарияланған."
+    },
+    "en": {
+     "title": "Meeting of the CIS Economic Council",
+     "description": "Meeting of the CIS Economic Council, discussing economic cooperation among Commonwealth member states. The announcement is published on the CIS Executive Committee portal."
+    }
+   },
+   "id": "ev-2026-4799e1",
+   "found_at": "2026-11-13T13:05+05:00"
   },
   {
    "id": "independence-day-2026",
@@ -2509,6 +2850,186 @@
    "country": "Казахстан"
   },
   {
+   "title": "Kazakhstan Machinery Fair 2027",
+   "type": "exhibition",
+   "level": "international",
+   "edition": null,
+   "industries": [
+    "Машиностроение",
+    "Горнодобыча и металлургия",
+    "Строительство"
+   ],
+   "city": "Астана",
+   "venue": "МВЦ «EXPO», пр-т Мангилик Ел 53/1",
+   "start": "2027-03-31",
+   "end": "2027-04-02",
+   "organizer": "Выставочная компания «Астана-Экспо КС»",
+   "phone": "+7 7172 64 23 23",
+   "email": "",
+   "site": "https://www.kmfexpo.kz/ru",
+   "description": "Крупнейшая в Центральной Азии международная выставка машиностроения, металлообработки и сварочных технологий. Производители и дистрибьюторы оборудования встречаются здесь с руководителями заводов, инженерами и закупщиками из Казахстана и соседних стран.",
+   "source_url": "https://www.kmfexpo.kz/ru",
+   "source_name": "Kazakhstan Machinery Fair",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "Kazakhstan Machinery Fair 2027",
+     "description": "Орталық Азиядағы машина жасау, металл өңдеу және дәнекерлеу технологияларының ең iри халықаралық көрмесі. Жабдық өндірушілер мен дистрибьюторлар Қазақстан мен көрші елдердің зауыт басшыларымен, инженерлерімен және сатып алушыларымен кездеседі.",
+     "venue": "«EXPO» ХКО, Астана, Мәңгілік Ел даңғылы 53/1"
+    },
+    "en": {
+     "title": "Kazakhstan Machinery Fair 2027",
+     "description": "The largest international exhibition of machinery, metalworking and welding technologies in Central Asia. Equipment manufacturers and distributors meet plant managers, engineers and procurement specialists from Kazakhstan and neighbouring countries.",
+     "venue": "EXPO Exhibition Centre, 53/1 Mangilik El Avenue, Astana"
+    }
+   },
+   "id": "kazakhstan-machinery-fair-2027-63f5f5",
+   "found_at": "2026-11-13T13:05+05:00"
+  },
+  {
+   "title": "SU ARNASY - Water Expo 2027",
+   "type": "exhibition",
+   "level": "international",
+   "edition": 16,
+   "industries": [
+    "Водное хозяйство",
+    "Экология и ESG",
+    "Строительство"
+   ],
+   "city": "Астана",
+   "venue": "МВЦ «EXPO»",
+   "start": "2027-03-31",
+   "end": "2027-04-02",
+   "organizer": "Выставочная компания «Астана-Экспо КС»",
+   "phone": "+7 7172 64 23 23",
+   "email": "",
+   "site": "https://waterexpo.kz/",
+   "description": "XVI Международная выставка технологий водоснабжения, водоотведения, водоочистки и цифровизации водной инфраструктуры в Астане. В деловой программе пройдёт отраслевой форум «Водоснабжение и водоотведение 2030» о модернизации, цифровизации и тарифном регулировании.",
+   "source_url": "https://waterexpo.kz/",
+   "source_name": "SU ARNASY Water Expo",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [
+    {
+     "name": "Зейнулкабден Табигат",
+     "role": "Председатель Казахстанской водной Ассоциации (модератор)",
+     "company": "Казахстанская водная Ассоциация"
+    },
+    {
+     "name": "Байтукенова Анар Абдуллаевна",
+     "role": "Заместитель председателя Комитета по регулированию естественных монополий",
+     "company": "МНЭ РК"
+    },
+    {
+     "name": "Керемқұлов Нұрсұлтан Бейбітбекұлы",
+     "role": "Заместитель председателя Комитета по делам строительства и ЖКХ",
+     "company": "МПС РК"
+    },
+    {
+     "name": "Солтанбеков Нурлан Кожахметович",
+     "role": "Председатель",
+     "company": "АО «Казахстанский центр модернизации и развития жилищно-коммунального хозяйства»"
+    },
+    {
+     "name": "Анарбек Орман Оңғарұлы",
+     "role": "Генеральный директор",
+     "company": "ТОО «Водные ресурсы-Маркетинг»"
+    },
+    {
+     "name": "Ильяс Жукенов",
+     "role": "Консультант Всемирного банка, Координатор Группы по водным ресурсам в РК",
+     "company": "Всемирный банк"
+    },
+    {
+     "name": "Исмагелов Ержан",
+     "role": "",
+     "company": "Казцентр ЖКХ"
+    },
+    {
+     "name": "Бегайдаров Жанат",
+     "role": "",
+     "company": "Казцентр ЖКХ"
+    },
+    {
+     "name": "Рауфов А.А.",
+     "role": "",
+     "company": "Казцентр ЖКХ"
+    },
+    {
+     "name": "Шакарим Ролан",
+     "role": "Директор по продажам",
+     "company": "ТОО «WAVIoT»"
+    },
+    {
+     "name": "Евгений Кац",
+     "role": "Региональный директор",
+     "company": "ТОО «HYDRO Engineering»"
+    },
+    {
+     "name": "Дмитрий Нарочный",
+     "role": "Директор проектного отдела",
+     "company": "ТОО «Wilo Group Central Asia»"
+    }
+   ],
+   "i18n": {
+    "kk": {
+     "title": "SU ARNASY - Water Expo 2027",
+     "description": "Су көздері мен құбыр инфрақұрылымын сумен жабдықтау, су бұру, су тазарту және цифрландыру технологияларының XVI халықаралық көрмесі Астанада өтеді. Іскери бағдарламада «Су жабдықтау және су бұру 2030» салалық форумы да өткізіледі: жаңғырту, цифрландыру және тарифтік реттеу мәселелері талқыланады.",
+     "venue": "«EXPO» ХКО"
+    },
+    "en": {
+     "title": "SU ARNASY - Water Expo 2027",
+     "description": "The 16th International Exhibition of water supply, wastewater treatment, water purification and digitalisation technologies for water infrastructure takes place in Astana. The business programme includes the industry forum “Water Supply and Sanitation 2030”, covering modernisation, digitalisation and tariff regulation.",
+     "venue": "EXPO International Exhibition Centre"
+    }
+   },
+   "id": "su-arnasy-water-expo-2027-1aaf30",
+   "found_at": "2026-11-13T13:05+05:00",
+   "also_in": [
+    "https://www.kmfexpo.kz/ru"
+   ]
+  },
+  {
+   "title": "Международная выставка промышленной энергетики и инженерной инфраструктуры предприятий",
+   "type": "exhibition",
+   "level": "international",
+   "edition": null,
+   "industries": [
+    "Энергетика",
+    "Машиностроение"
+   ],
+   "city": "Астана",
+   "venue": "МВЦ «EXPO», пр-т Мангилик Ел 53/1",
+   "start": "2027-03-31",
+   "end": "2027-04-02",
+   "organizer": "Выставочная компания «Астана-Экспо КС»",
+   "phone": "+7 7172 64 23 23",
+   "email": "",
+   "site": "https://www.kmfexpo.kz/ru",
+   "description": "Международная выставка оборудования и решений для промышленной энергетики и инженерной инфраструктуры предприятий. Проходит в те же даты, что и Kazakhstan Machinery Fair 2027, на той же площадке.",
+   "source_url": "https://www.kmfexpo.kz/ru",
+   "source_name": "Kazakhstan Machinery Fair",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "Кәсіпорындардың өнеркәсіптік энергетикасы мен инженерлік инфрақұрылымы бойынша халықаралық көрме",
+     "description": "Кәсіпорындардың өнеркәсіптік энергетикасы мен инженерлік инфрақұрылымына арналған жабдықтар мен шешімдердің халықаралық көрмесі. Kazakhstan Machinery Fair 2027-мен бірдей күндері және бір алаңда өтеді.",
+     "venue": "«EXPO» ХКО, Астана, Мәңгілік Ел даңғылы 53/1"
+    },
+    "en": {
+     "title": "International Exhibition of Industrial Power Engineering and Engineering Infrastructure of Enterprises",
+     "description": "International exhibition of equipment and solutions for industrial power engineering and engineering infrastructure of enterprises. It runs on the same dates and at the same venue as Kazakhstan Machinery Fair 2027.",
+     "venue": "EXPO Exhibition Centre, 53/1 Mangilik El Avenue, Astana"
+    }
+   },
+   "id": "ev-2027-7b23b6",
+   "found_at": "2026-11-13T13:05+05:00"
+  },
+  {
    "id": "hannover-messe-2027",
    "title": "HANNOVER MESSE 2027",
    "type": "exhibition",
@@ -2646,7 +3167,10 @@
      "venue": "Atakent Expo, 42 Timiryazev St."
     }
    },
-   "country": "Казахстан"
+   "country": "Казахстан",
+   "also_in": [
+    "https://www.advantour.com/rus/kazakhstan/almaty/exhibitions.htm"
+   ]
   },
   {
    "id": "astana-build-2027",
@@ -2751,6 +3275,45 @@
     }
    },
    "country": "Казахстан"
+  },
+  {
+   "title": "Международная форум-выставка автоматизации и цифровизации бизнеса Business Technology Expo",
+   "type": "exhibition",
+   "level": "international",
+   "edition": null,
+   "industries": [
+    "IT и цифровизация",
+    "Финансы",
+    "Энергетика"
+   ],
+   "city": "Астана",
+   "venue": "МВЦ EXPO",
+   "start": "2027-05-12",
+   "end": "2027-05-14",
+   "organizer": "Выставочная компания «Астана-Экспо КС»",
+   "phone": "+7 7172 64 23 23",
+   "email": "office@astana-expo.com",
+   "site": "https://btexpo.kz/ru",
+   "description": "Международная B2B-выставка, где компании демонстрируют цифровые и технологические решения для автоматизации, управления и масштабирования бизнеса. Параллельно проходят конференции по ИИ, Data Science, цифровой трансформации, маркетингу и HR.",
+   "source_url": "https://btexpo.kz/ru",
+   "source_name": "BT Expo",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "Бизнесті автоматтандыру және цифрландыру халықаралық форум-көрмесі Business Technology Expo",
+     "description": "Компаниялардың цифрлық және технологиялық шешімдерін көрсететін халықаралық B2B-көрме, бизнесті автоматтандыру, басқару және масштабтау бағытында. Бір мезгілде ЖИ, Data Science, цифрлық трансформация, маркетинг және HR бойынша конференциялар өтеді.",
+     "venue": "МВЦ EXPO, Астана"
+    },
+    "en": {
+     "title": "Business Technology Expo: International Forum-Exhibition on Business Automation and Digitalisation",
+     "description": "An international B2B exhibition where companies present digital and technology solutions for business automation, management and scaling. Conferences on AI, Data Science, digital transformation, marketing and HR run alongside.",
+     "venue": "EXPO Exhibition Centre, Astana"
+    }
+   },
+   "id": "business-technology-expo-2027-b4e44e",
+   "found_at": "2026-11-13T13:05+05:00"
   },
   {
    "id": "world-hydrogen-summit-2027",
@@ -2872,7 +3435,7 @@
    "organizer": "Iteca",
    "phone": "+7 727 258 34 34",
    "email": "contact@iteca.kz",
-   "site": "",
+   "site": "https://www.amm.kz",
    "description": "Главный горно-металлургический конгресс страны; в 2026 году собрал более 1,5 тыс. делегатов из 16 стран.",
    "source_url": "https://www.eventseye.com/fairs-organizers/iteca-500-1.html",
    "source_name": "eventseye.com",
@@ -2888,7 +3451,50 @@
      "venue": "Hilton Astana, 14 G. Aliyev St."
     }
    },
-   "country": "Казахстан"
+   "country": "Казахстан",
+   "also_in": [
+    "https://www.amm.kz"
+   ],
+   "found_at": "2026-11-13T13:05+05:00"
+  },
+  {
+   "title": "Electronica Expo Kazakhstan",
+   "type": "exhibition",
+   "level": "international",
+   "edition": null,
+   "industries": [
+    "Энергетика",
+    "IT и цифровизация",
+    "Машиностроение"
+   ],
+   "city": "Астана",
+   "venue": "МВЦ EXPO",
+   "start": "2027-06-16",
+   "end": "2027-06-18",
+   "organizer": "",
+   "phone": "",
+   "email": "",
+   "site": "https://electronica-expo.com/",
+   "description": "Крупнейшая в Центральной Азии по числу участников и посетителей международная выставка электроники: от компонентов до готовых электронных систем. Одновременно проходят выставки Consumer Electronics Expo Kazakhstan и Central Asia Tools & Hardware Show.",
+   "source_url": "https://electronica-expo.com/",
+   "source_name": "Electronica Expo",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "Electronica Expo Kazakhstan",
+     "description": "Орта Азиядағы қатысушылар мен келушілер саны бойынша ең iri электроника халықаралық көрмесі: компоненттерден дайын электрондық жүйелерге дейін. Бір мезгілде Consumer Electronics Expo Kazakhstan және Central Asia Tools & Hardware Show көрмелері өтеді.",
+     "venue": "EXPO ХКО"
+    },
+    "en": {
+     "title": "Electronica Expo Kazakhstan",
+     "description": "The largest international electronics exhibition in Central Asia by number of participants and visitors, covering the full chain from components to finished electronic systems. Held simultaneously with Consumer Electronics Expo Kazakhstan and Central Asia Tools & Hardware Show.",
+     "venue": "EXPO Exhibition Centre"
+    }
+   },
+   "id": "electronica-expo-kazakhstan-2027-e3be05",
+   "found_at": "2026-11-13T13:05+05:00"
   },
   {
    "id": "spief-2027",
@@ -2993,6 +3599,120 @@
      "venue": ""
     }
    }
+  },
+  {
+   "title": "31-я Международная выставка и конференция «Нефть и Газ» (KIOGE)",
+   "type": "exhibition",
+   "level": "international",
+   "edition": 31,
+   "industries": [
+    "Нефть и газ",
+    "Энергетика",
+    "Машиностроение"
+   ],
+   "city": "Астана",
+   "venue": "МВЦ «EXPO»",
+   "start": "2027-09-01",
+   "end": "2027-09-03",
+   "organizer": "ITECA.EVENTS",
+   "phone": "+7 771 258 34 34, +7 727 258 34 34",
+   "email": "",
+   "site": "https://kioge.kz/",
+   "description": "Крупнейшая в Каспийском регионе выставка и конференция для специалистов нефтегазового сектора, проводится раз в два года. Мероприятие объединяет участников отрасли, демонстрирует оборудование и технологии и проходит в Астане.",
+   "source_url": "https://kioge.kz/",
+   "source_name": "KIOGE",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "31-ші халықаралық «Мұнай және газ» көрмесі мен конференциясы (KIOGE)",
+     "description": "Каспий өңірindegi мұнай-газ саласының мamandарына арналған ең iri көрме мен конференция, екі жылда бір рет өткізіледі. Іс-шара салалық қатысушыларды біріктіріп, жабдықтар мен технологияларды көрсетеді және Астанада өтеді.",
+     "venue": "«EXPO» халықаралық көрме орталығы"
+    },
+    "en": {
+     "title": "31st International Oil and Gas Exhibition and Conference (KIOGE)",
+     "description": "The largest exhibition and conference for oil and gas professionals in the Caspian region, held once every two years. The event brings together industry participants and showcases equipment and technologies in Astana.",
+     "venue": "EXPO International Exhibition Center"
+    }
+   },
+   "id": "31-kioge-2027-ddadb7",
+   "found_at": "2026-11-13T13:05+05:00"
+  },
+  {
+   "title": "30-я Казахстанская международная выставка транспорта и логистики TransLogistica",
+   "type": "exhibition",
+   "level": "international",
+   "edition": 30,
+   "industries": [
+    "Транспорт и логистика"
+   ],
+   "city": "Алматы",
+   "venue": "ВЦ «Атакент», ул. Тимирязева, 42",
+   "start": "2027-10-12",
+   "end": "2027-10-14",
+   "organizer": "",
+   "phone": "+7 771 258 34 34, +7 727 258 34 34",
+   "email": "",
+   "site": "https://translogistica.kz/en/",
+   "description": "Международная выставка транспорта и логистики в Алматы, где компании смогут представить свои решения и найти партнёров. Проводится на площадке «Атакент» с 12 по 14 октября 2027 года.",
+   "source_url": "https://translogistica.kz/en/",
+   "source_name": "TransLogistica",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "TransLogistica: 30-шы Қазақстан халықаралық көлік және логистика көрмесі",
+     "description": "Алматыдағы көлік және логистика саласының халықаралық көрмесі, онда компаниялар өз шешімдерін таныстырып, серіктестер таба алады. 2027 жылдың 12–14 қазан аралығында «Атакент» алаңында өтеді.",
+     "venue": "«Атакент» ХКО, Тимирязев көшесі, 42"
+    },
+    "en": {
+     "title": "30th Kazakhstan International Transport & Logistics Exhibition (TransLogistica)",
+     "description": "An international transport and logistics exhibition in Almaty where companies can present their solutions and find partners. It will take place at Atakent IEC from 12 to 14 October 2027.",
+     "venue": "Atakent IEC, 42 Timiryazev str., Almaty"
+    }
+   },
+   "id": "30-translogistica-2027-c90b10",
+   "found_at": "2026-11-13T13:05+05:00"
+  },
+  {
+   "title": "15-я Казахстанская международная выставка «Безопасность, противопожарная защита, информационные технологии, связь и дроны»",
+   "type": "exhibition",
+   "level": "international",
+   "edition": 15,
+   "industries": [
+    "IT и цифровизация",
+    "Охрана труда"
+   ],
+   "city": "Алматы",
+   "venue": "КЦДС «Атакент», ул. Тимирязева 42",
+   "start": "2027-10-20",
+   "end": "2027-10-22",
+   "organizer": "ITECA.EVENTS",
+   "phone": "+7 771 258 34 34, +7 727 258 34 34",
+   "email": "",
+   "site": "https://securex.kz/",
+   "description": "Международная выставка по безопасности, противопожарной защите, IT, связи и дронам. Пройдет 20–22 октября 2027 года в Алматы на площадке КЦДС «Атакент».",
+   "source_url": "https://securex.kz/",
+   "source_name": "Securex",
+   "country": "Казахстан",
+   "program_url": "",
+   "speakers": [],
+   "i18n": {
+    "kk": {
+     "title": "15-ші Қазақстандық халықаралық көрме «Қауіпсіздік, өрттен қорғау, ақпараттық технологиялар, байланыс және дрондар»",
+     "description": "Қауіпсіздік, өрттен қорғау, IT, байланыс және дрондар бойынша халықаралық көрме. 2027 жылғы 20–22 қазанда Алматыда «Атакент» КЦДС алаңында өтеді.",
+     "venue": "Алматы қ., КЦДС «Атакент», Тимирязев көшесі, 42"
+    },
+    "en": {
+     "title": "15th Kazakhstan International Exhibition “Security, Fire Protection, Information Technology, Communications and Drones”",
+     "description": "International exhibition on security, fire protection, IT, communications and drones. Will take place on 20–22 October 2027 in Almaty at KCDS Atakent.",
+     "venue": "KCDS Atakent, 42 Timiryazev St., Almaty"
+    }
+   },
+   "id": "15-2027-bffdb4",
+   "found_at": "2026-11-13T13:05+05:00"
   },
   {
    "id": "dubai-airshow-2027",
