@@ -2211,60 +2211,6 @@
    "country": "Казахстан"
   },
   {
-<<<<<<< HEAD
-   "title": "31-я Конференция сторон Рамочной конвенции ООН об изменении климата (COP31)",
-   "type": "summit",
-   "level": "international",
-   "edition": 31,
-   "industries": [
-    "Экология и ESG",
-    "Энергетика"
-   ],
-   "city": "Анталья",
-   "venue": "",
-   "start": "2026-11-09",
-   "end": "2026-11-20",
-   "organizer": "Организация Объединённых Наций",
-   "phone": "",
-   "email": "",
-   "site": "https://indico.un.org",
-   "description": "Международный климатический саммит ООН, на котором обсуждаются меры по снижению выбросов и адаптации к изменению климата. Премьер-министр Казахстана принимает в нём участие по поручению Президента.",
-   "source_url": "https://primeminister.kz/ru/news",
-   "source_name": "Премьер-министр РК — новости",
-   "country": "Турция",
-   "program_url": "",
-   "speakers": [
-    {
-     "name": "Олжас Бектенов",
-     "role": "Премьер-министр Республики Казахстан",
-     "company": "Правительство Республики Казахстан"
-    },
-    {
-     "name": "Василе Тофан",
-     "role": "Премьер-министр Республики Молдова",
-     "company": "Правительство Республики Молдова"
-    }
-   ],
-   "i18n": {
-    "kk": {
-     "title": "ООН-ның Климаттың өзгеруі туралы негізгі конвенциясы тараптарының 31-конференциясы (COP31)",
-     "description": "БҰҰ-ның климаттық өзгерістерге арналған халықаралық саммиті, онда шығарындыларды азайту және климаттың өзгеруіне бейімделу шаралары талқыланады. Қазақстан Премьер-Министрі Президенттің тапсырмасы бойынша осы іс-шараға қатысады."
-    },
-    "en": {
-     "title": "31st Conference of the Parties to the UN Framework Convention on Climate Change (COP31)",
-     "description": "UN international climate summit discussing measures to reduce emissions and adapt to climate change. The Prime Minister of Kazakhstan is taking part by instruction of the President."
-    }
-   },
-   "id": "31-ya-konferentsiya-storon-ramochnoy-kon-2026-46de95",
-   "found_at": "2026-11-13T13:58+05:00",
-   "also_in": [
-    "https://indico.un.org",
-    "https://primeminister.kz/ru/events"
-   ]
-  },
-  {
-=======
->>>>>>> 1717333 (Remove 4 duplicate events; dedupe: same dates+city+edition, shared codes like COP31; removed.json so deleted duplicates never come back)
    "id": "cop31-antalya-2026",
    "title": "COP31 — Конференция ООН по изменению климата",
    "type": "official",
@@ -3598,7 +3544,6 @@
    "edition": null
   },
   {
-<<<<<<< HEAD
    "title": "GITEX AI KAZAKHSTAN",
    "type": "exhibition",
    "level": "international",
@@ -3634,45 +3579,6 @@
    "found_at": "2026-11-13T17:09+05:00"
   },
   {
-   "title": "17-й Международный Горно-металлургический конгресс",
-   "type": "congress",
-   "level": "international",
-   "edition": 17,
-   "industries": [
-    "Горнодобыча и металлургия"
-   ],
-   "city": "Астана",
-   "venue": "Отель \"Hilton Astana\", ул. Гейдара Алиева 14",
-   "start": "2027-06-10",
-   "end": "2027-06-11",
-   "organizer": "",
-   "phone": "+7 771 258 34 34, +7 727 258 34 34",
-   "email": "",
-   "site": "https://www.amm.kz",
-   "description": "Международный отраслевой конгресс по горнодобыче и металлургии, который пройдёт в Астане в июне 2027 года. Он объединит специалистов и участников горно-металлургического сектора.",
-   "source_url": "https://www.amm.kz",
-   "source_name": "AMM",
-   "country": "Казахстан",
-   "program_url": "",
-   "speakers": [],
-   "i18n": {
-    "kk": {
-     "title": "17-ші Халықаралық тау-кен металлургиясы конгресі",
-     "description": "2027 жылдың маусымында Астанада өтетін тау-кен өндірісі мен металлургия салasындағы халықаралық салалық конгресс. Ол сала мамандарын және қатысушыларын біріктіреді.",
-     "venue": "\"Hilton Astana\" қонақ үйі, Ғайдар Әliev көшесі 14"
-    },
-    "en": {
-     "title": "17th International Mining and Metallurgy Congress",
-     "description": "An international industry congress on mining and metallurgy, taking place in Astana in June 2027. It will bring together specialists and participants of the mining and metallurgical sector.",
-     "venue": "Hilton Astana Hotel, 14 Geydar Aliyev St."
-    }
-   },
-   "id": "17-y-mezhdunarodnyy-gorno-metallurgiches-2027-76474f",
-   "found_at": "2026-11-13T13:58+05:00"
-  },
-  {
-=======
->>>>>>> 1717333 (Remove 4 duplicate events; dedupe: same dates+city+edition, shared codes like COP31; removed.json so deleted duplicates never come back)
    "id": "amm-2027",
    "title": "Astana Mining & Metallurgy 2027 (AMM)",
    "type": "congress",
