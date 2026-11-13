@@ -1,5 +1,7 @@
 {
- "checked_at": "2026-11-13T13:05+05:00",
+ "checked_at": "2026-11-13T13:50+05:00",
+ "full_at": "2026-11-13T13:50+05:00",
+ "mode": "full",
  "have_key": true,
  "sources": [
   {
@@ -8,7 +10,7 @@
    "group": "web",
    "ok": true,
    "chars": 1992,
-   "events": 3,
+   "events": 0,
    "error": ""
   },
   {
@@ -75,24 +77,6 @@
    "error": ""
   },
   {
-   "name": "gov.kz — МИД РК, мероприятия",
-   "url": "https://www.gov.kz/memleket/entities/mfa/press/events?lang=ru",
-   "group": "web",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "404 Client Error: Not Found for url: https://www.gov.kz/org/mfa/press/events?lang=ru"
-  },
-  {
-   "name": "gov.kz — Минпромстрой, мероприятия",
-   "url": "https://www.gov.kz/memleket/entities/mps/press/events?lang=ru",
-   "group": "web",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "404 Client Error: Not Found for url: https://www.gov.kz/org/mps/press/events?lang=ru"
-  },
-  {
    "name": "Advantour — выставки Алматы",
    "url": "https://www.advantour.com/rus/kazakhstan/almaty/exhibitions.htm",
    "group": "web",
@@ -115,7 +99,7 @@
    "url": "https://www.eventseye.com/fairs-organizers/iteca-500-1.html",
    "group": "web",
    "ok": true,
-   "chars": 9451,
+   "chars": 9455,
    "events": 0,
    "error": ""
   },
@@ -138,15 +122,6 @@
    "error": ""
   },
   {
-   "name": "CM EXPO",
-   "url": "https://cmexpo.kz/",
-   "group": "organizers",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "403 Client Error: Forbidden for url: https://cmexpo.kz/"
-  },
-  {
    "name": "MINEX Kazakhstan",
    "url": "https://minexkazakhstan.com/",
    "group": "organizers",
@@ -161,7 +136,7 @@
    "group": "organizers",
    "ok": true,
    "chars": 5311,
-   "events": 1,
+   "events": 0,
    "error": ""
   },
   {
@@ -170,7 +145,7 @@
    "group": "organizers",
    "ok": true,
    "chars": 7386,
-   "events": 1,
+   "events": 0,
    "error": ""
   },
   {
@@ -179,7 +154,7 @@
    "group": "organizers",
    "ok": true,
    "chars": 5526,
-   "events": 1,
+   "events": 0,
    "error": ""
   },
   {
@@ -190,15 +165,6 @@
    "chars": 7882,
    "events": 0,
    "error": ""
-  },
-  {
-   "name": "GITEX Central Asia",
-   "url": "https://www.gitexcac.com/rus/home",
-   "group": "organizers",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "500 Server Error: Internal Server Error for url: https://www.gitexcac.com/rus/home"
   },
   {
    "name": "AMM",
@@ -233,7 +199,7 @@
    "group": "organizers",
    "ok": true,
    "chars": 7111,
-   "events": 0,
+   "events": 1,
    "error": ""
   },
   {
@@ -309,15 +275,6 @@
    "error": ""
   },
   {
-   "name": "United Medical Expo",
-   "url": "https://unitedmedicalexpo.com/",
-   "group": "organizers",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "403 Client Error: Forbidden for url: https://umtexpo.com/"
-  },
-  {
    "name": "AmCham Kazakhstan",
    "url": "https://amcham.kz/",
    "group": "organizers",
@@ -341,17 +298,8 @@
    "group": "organizers",
    "ok": true,
    "chars": 8019,
-   "events": 0,
+   "events": 1,
    "error": ""
-  },
-  {
-   "name": "НПП «Атамекен» — новости",
-   "url": "https://atameken.kz/ru/news",
-   "group": "web",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "404 Client Error: Not Found for url: https://atameken.kz/ru/news"
   },
   {
    "name": "QazTrade — мероприятия",
@@ -399,15 +347,6 @@
    "error": ""
   },
   {
-   "name": "KAZENERGY — новости",
-   "url": "https://www.kazenergy.com/ru/",
-   "group": "web",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "404 Client Error: Not Found for url: https://www.kazenergy.com/ru/"
-  },
-  {
    "name": "Visit Almaty — события",
    "url": "https://visitalmaty.kz/",
    "group": "web",
@@ -426,15 +365,6 @@
    "error": ""
   },
   {
-   "name": "Baku Energy Week",
-   "url": "https://bakuenergyweek.com",
-   "group": "web",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "HTTPSConnectionPool(host='bakuenergyweek.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='bakuenergyweek."
-  },
-  {
    "name": "TIIF Ташкент",
    "url": "https://tiif.online/",
    "group": "web",
@@ -442,15 +372,6 @@
    "chars": 3399,
    "events": 0,
    "error": ""
-  },
-  {
-   "name": "ИННОПРОМ",
-   "url": "https://www.innoprom.com/en/",
-   "group": "web",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "HTTPSConnectionPool(host='www.innoprom.com', port=443): Max retries exceeded with url: /en/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_V"
   },
   {
    "name": "World Hydrogen Summit",
@@ -476,7 +397,7 @@
    "group": "state",
    "ok": true,
    "chars": 15692,
-   "events": 1,
+   "events": 0,
    "error": ""
   },
   {
@@ -484,36 +405,9 @@
    "url": "https://www.inform.kz/ru/",
    "group": "state",
    "ok": true,
-   "chars": 8821,
+   "chars": 8781,
    "events": 0,
    "error": ""
-  },
-  {
-   "name": "Парламент РК — новости",
-   "url": "https://www.parlam.kz/ru/news",
-   "group": "state",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "HTTPSConnectionPool(host='www.parlam.kz', port=443): Max retries exceeded with url: /ru/news (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_"
-  },
-  {
-   "name": "Kazakh Invest — события",
-   "url": "https://invest.gov.kz/ru/media-center/events/",
-   "group": "state",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "404 Client Error: Not Found for url: https://invest.gov.kz/ru/media-center/events/"
-  },
-  {
-   "name": "МИД РК — Kazakhstan Diplomatic Portal",
-   "url": "https://www.mfa.gov.kz/ru",
-   "group": "state",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "HTTPSConnectionPool(host='www.mfa.gov.kz', port=443): Max retries exceeded with url: /ru (Caused by NameResolutionError(\"HTTPSConnection(host='www.mfa.gov.kz', "
   },
   {
    "name": "ЕЭК (ЕАЭС) — календарь",
@@ -529,18 +423,9 @@
    "url": "https://e-cis.info/news/",
    "group": "state",
    "ok": true,
-   "chars": 8000,
-   "events": 3,
+   "chars": 8521,
+   "events": 1,
    "error": ""
-  },
-  {
-   "name": "Организация тюркских государств",
-   "url": "https://www.turkicstates.org/en/news",
-   "group": "state",
-   "ok": false,
-   "chars": 0,
-   "events": null,
-   "error": "403 Client Error: Forbidden for url: https://www.turkicstates.org/en/news"
   },
   {
    "name": "ШОС — новости",
@@ -548,6 +433,114 @@
    "group": "state",
    "ok": true,
    "chars": 1614,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "EventsEye — выставки Казахстана",
+   "url": "https://www.eventseye.com/fairs/c1_trade-shows_kazakhstan.html",
+   "group": "global",
+   "ok": true,
+   "chars": 14043,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "AUMA — поиск выставок",
+   "url": "https://www.auma.de/en/find-your-fair/",
+   "group": "global",
+   "ok": true,
+   "chars": 10983,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "TradeFairDates",
+   "url": "https://www.tradefairdates.com",
+   "group": "global",
+   "ok": true,
+   "chars": 5789,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "Luma — Discover",
+   "url": "https://lu.ma/discover",
+   "group": "global",
+   "ok": true,
+   "chars": 2884,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "Meetup",
+   "url": "https://www.meetup.com",
+   "group": "global",
+   "ok": true,
+   "chars": 7777,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "AllEvents — Астана",
+   "url": "https://allevents.in/astana",
+   "group": "global",
+   "ok": true,
+   "chars": 1360,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "AllEvents — Алматы",
+   "url": "https://allevents.in/almaty",
+   "group": "global",
+   "ok": true,
+   "chars": 1326,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "IEEE Conferences",
+   "url": "https://events.ieee.org/search-ieee-conferences/",
+   "group": "global",
+   "ok": true,
+   "chars": 1201,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "WikiCFP",
+   "url": "http://www.wikicfp.com/cfp/",
+   "group": "global",
+   "ok": true,
+   "chars": 1264,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "SPE Events",
+   "url": "https://www.spe-events.org",
+   "group": "global",
+   "ok": true,
+   "chars": 1111,
+   "events": 0,
+   "error": ""
+  },
+  {
+   "name": "Indico.UN",
+   "url": "https://indico.un.org",
+   "group": "global",
+   "ok": true,
+   "chars": 4230,
+   "events": 1,
+   "error": ""
+  },
+  {
+   "name": "World Bank Live",
+   "url": "https://live.worldbank.org",
+   "group": "global",
+   "ok": true,
+   "chars": 5959,
    "events": 0,
    "error": ""
   },
@@ -565,8 +558,8 @@
    "url": "https://t.me/s/atamekenbusiness",
    "group": "telegram",
    "ok": true,
-   "chars": 9828,
-   "events": 2,
+   "chars": 10145,
+   "events": 1,
    "error": ""
   },
   {
@@ -574,8 +567,8 @@
    "url": "https://t.me/s/atamekenbusiness_qaz",
    "group": "telegram",
    "ok": true,
-   "chars": 10515,
-   "events": 2,
+   "chars": 11094,
+   "events": 1,
    "error": ""
   },
   {
@@ -593,7 +586,7 @@
    "group": "telegram",
    "ok": true,
    "chars": 19974,
-   "events": 1,
+   "events": 0,
    "error": ""
   },
   {
@@ -613,6 +606,96 @@
    "chars": 0,
    "events": null,
    "error": "off"
+  },
+  {
+   "name": "10times — Казахстан",
+   "url": "https://10times.com/kazakhstan",
+   "group": "blocked",
+   "ok": false,
+   "chars": 0,
+   "events": null,
+   "error": "blocked",
+   "how": "закрыт для роботов — нужен партнёрский доступ"
+  },
+  {
+   "name": "Eventbrite — Казахстан",
+   "url": "https://www.eventbrite.com/d/kazakhstan/business--events/",
+   "group": "blocked",
+   "ok": false,
+   "chars": 0,
+   "events": null,
+   "error": "blocked",
+   "how": "есть официальный API — нужен бесплатный ключ"
+  },
+  {
+   "name": "IEA Events",
+   "url": "https://www.iea.org/events",
+   "group": "blocked",
+   "ok": false,
+   "chars": 0,
+   "events": null,
+   "error": "blocked",
+   "how": "закрыт для роботов — следим через рассылку"
+  },
+  {
+   "name": "World Economic Forum — события",
+   "url": "https://www.weforum.org/events",
+   "group": "blocked",
+   "ok": false,
+   "chars": 0,
+   "events": null,
+   "error": "blocked",
+   "how": "закрыт для роботов — следим через рассылку"
+  },
+  {
+   "name": "OECD Events",
+   "url": "https://www.oecd.org/en/events.html",
+   "group": "blocked",
+   "ok": false,
+   "chars": 0,
+   "events": null,
+   "error": "blocked",
+   "how": "закрыт для роботов — следим через рассылку"
+  },
+  {
+   "name": "CM EXPO",
+   "url": "https://cmexpo.kz/",
+   "group": "blocked",
+   "ok": false,
+   "chars": 0,
+   "events": null,
+   "error": "blocked",
+   "how": "закрыт для роботов — пригласить организатора добавлять события"
+  },
+  {
+   "name": "United Medical Expo",
+   "url": "https://unitedmedicalexpo.com/",
+   "group": "blocked",
+   "ok": false,
+   "chars": 0,
+   "events": null,
+   "error": "blocked",
+   "how": "закрыт для роботов — пригласить организатора"
+  },
+  {
+   "name": "Организация тюркских государств",
+   "url": "https://www.turkicstates.org/en/news",
+   "group": "blocked",
+   "ok": false,
+   "chars": 0,
+   "events": null,
+   "error": "blocked",
+   "how": "закрыт для роботов"
+  },
+  {
+   "name": "МИД РК / gov.kz",
+   "url": "https://www.gov.kz/memleket/entities/mfa",
+   "group": "blocked",
+   "ok": false,
+   "chars": 0,
+   "events": null,
+   "error": "blocked",
+   "how": "страницы собираются скриптом в браузере — нужен открытый API gov.kz"
   }
  ]
 }
